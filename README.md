@@ -220,15 +220,6 @@ Tarayıcı konsolunda çalıştırın:
 localStorage.clear();
 location.reload();
 ```
-
-### Test Senaryosu
-1. Müşteri olarak 500 kg Fresh sevkiyat oluşturun (Berlin)
-2. Admin paneline gidin
-3. Konteynerleri optimize edin
-4. Sevkiyat durumunu "Tamamlandı" yapın
-5. Finansalları hesaplayın
-6. Rapor oluşturun
-
 ## 📞 Destek
 
 Sorularınız için proje dokümantasyonunu inceleyin.
